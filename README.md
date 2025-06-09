@@ -32,7 +32,7 @@ Discover more about me:
 ---
 
 ### 🏗️ AI for Building Damage Assessment  
-**Feb 2025 – Present**  
+
 DeployForce – web app that turns pre- and post-disaster satellite images into colour-coded damage maps and PDF reports in seconds, reducing manual assessment time.  
 - Micro-service stack (Django + Flask, Docker) with a YOLOv9 segmentation model trained, tracked and versioned through a ClearML MLOps pipeline.  
 - Leaflet-powered UI lets responders batch-upload up to 10 image pairs, view geolocated severity masks, and export cost-estimation reports for faster relief planning.  
@@ -42,7 +42,7 @@ DeployForce – web app that turns pre- and post-disaster satellite images into 
 ---
 
 ### 🎨 PromptVision AI  
-**Feb 2025 – Present**  
+ 
 _Associated with University of Technology Sydney_  
 - Web app that turns plain-language prompts into complex image edits.  
 - LLM chains Grounding DINO, SAM, SDXL, Florence2 & Tesseract via LangChain and exposes every intermediate output for trust and debugging.  
@@ -53,7 +53,7 @@ _Associated with University of Technology Sydney_
 ---
 
 ### 🛍️ Askbella  
-**Mar 2024 – Present**  
+
 _Associated with QSSTUDIO_  
 Smart shopping assistant powered by large language models.  
 - Builds personalized product recommendations and conversational advice engines for skincare using LangChain and AWS Lambda.  
@@ -64,7 +64,7 @@ Smart shopping assistant powered by large language models.
 ---
 
 ### 🚁 GestureFly  
-**Feb 2024 – Jun 2024**  
+
 _Associated with University of Technology Sydney_  
 - Engineered a drone-navigation platform blending gesture-based commands with facial-identity verification; nominated “People’s Choice” at UTS AI Showcase 2024.  
 - Trained a YOLOv9 model to recognize nine distinct hand signals (up, down, left, right, forward, backward, picture, land, take-off).  
@@ -77,7 +77,7 @@ _Associated with University of Technology Sydney_
 ---
 
 ### 🧬 Optical Coherence Tomography Research  
-**Jul 2022 – Dec 2022**  
+
 _Associated with University of Delaware_  
 - Engineered an OCT acquisition pipeline using blue-noise and Risley-prism beam-steering to cut mechanical moves and improve sampling time.  
 - Trained a 3D convolutional autoencoder to reconstruct, denoise, and motion-correct sparsely sampled retinal volumes (PSNR +3 dB, SSIM > 0.85).  
