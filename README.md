@@ -33,6 +33,8 @@ Discover more about me:
 
 ### 🏗️ AI for Building Damage Assessment  
 
+_Associated with University of Technology Sydney_  
+
 DeployForce – web app that turns pre- and post-disaster satellite images into colour-coded damage maps and PDF reports in seconds, reducing manual assessment time.  
 - Micro-service stack (Django + Flask, Docker) with a YOLOv9 segmentation model trained, tracked and versioned through a ClearML MLOps pipeline.  
 - Leaflet-powered UI lets responders batch-upload up to 10 image pairs, view geolocated severity masks, and export cost-estimation reports for faster relief planning.  
